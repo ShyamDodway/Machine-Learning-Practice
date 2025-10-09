@@ -1,7 +1,7 @@
 # Machine Learning Algorithms Practice
 
 This repository contains my personal implementations and practice notebooks for various ML algorithms.
-## 📚 Contents
+##  Contents
 # 1.Linear Regression 
 
 - A real state agents want the help to predict the house price for regions in the USA. He gave you the dataset to work on and you decided to use Linear Regressioon Model. Create a model which will help him to estimate of what the house would sell for.
