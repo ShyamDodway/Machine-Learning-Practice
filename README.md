@@ -2,7 +2,9 @@
 
 This repository contains my personal implementations and practice notebooks for various ML algorithms.
 ## 📚 Contents
-- Linear Regression (Data used - https://github.com/studygyaan/tutorials/blob/master/data-science/Linear%20Regression%20-%20House%20Price%20Predictions/data.csv)
+# 1.Linear Regression 
+
+- (Data used - https://github.com/studygyaan/tutorials/blob/master/data-science/Linear%20Regression%20-%20House%20Price%20Predictions/data.csv)
 - A real state agents want the help to predict the house price for regions in the USA. He gave you the dataset to work on and you decided to use Linear Regressioon Model. Create a model which will help him to estimate of what the house would sell for.
 
 Dataset contains 7 columns and 5000 rows with CSV extension. The data contains the following columns :
