@@ -47,7 +47,7 @@ Classification Report:
 weighted avg       0.98      0.98      0.98       848
 
 # 3.KNN 
-
+#### https://github.com/ShyamDodway/ml-algorithms-practice/blob/main/KNN.ipynb
 KNN Classifier Evaluation
 This repository contains a K-Nearest Neighbors (KNN) classifier implemented using scikit-learn, along with comprehensive evaluation metrics (accuracy, precision, recall, confusion matrix, and classification report).​
 
@@ -56,3 +56,24 @@ Features:
 - Trains a KNN classifier
 - Evaluates model with multiple metrics
 - Easy to modify for your own data
+
+## Model Evaluation Results
+
+**Accuracy:** 0.6688  
+**Precision:** 0.6622  
+**Recall:** 0.6688  
+
+### Confusion Matrix
+|        | Predicted 0 | Predicted 1 |
+|--------|-------------|-------------|
+| Actual 0 |   77        |   23        |
+| Actual 1 |   28        |   26        |
+
+### Classification Report
+| Class | Precision | Recall | F1-score | Support |
+|-------|-----------|--------|----------|---------|
+| 0     |   0.73    |  0.77  |   0.75   |   100   |
+| 1     |   0.53    |  0.48  |   0.50   |    54   |
+|**Accuracy**|        |        |  0.67    |   154   |
+| Macro avg | 0.63   |  0.63  |   0.63   |   154   |
+| Weighted avg | 0.66|  0.67  |   0.66   |   154   |
