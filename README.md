@@ -1,6 +1,11 @@
 # Machine Learning Algorithms Practice
+<p align="center">
+  <b><span style="color:red;">⚠️ Disclaimer / Note:</span></b><br>
+  These are my <b>practice implementations</b> of various <b>machine learning algorithms</b>.<br>
+  The main goal of this repository is <i>learning, experimentation, and improvement</i>.<br>
+  Models may not be fully optimized or produce high accuracy — they’re for <b>educational purposes only</b>. 
+</p>
 
-This repository contains my personal implementations and practice notebooks for various ML algorithms.
 ##  Contents
 # 1.Linear Regression 
 #### https://github.com/ShyamDodway/ml-algorithms-practice/blob/main/linear_regression.ipynb
