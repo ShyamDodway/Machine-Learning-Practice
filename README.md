@@ -1,6 +1,6 @@
 # Machine Learning Algorithms Practice
 <p align="center">
-  <b><span style="color:red;">⚠️ Disclaimer / Note:</span></b><br>
+  <b><span style="color:red;"> Disclaimer / Note:</span></b><br>
   These are my <b>practice implementations</b> of various <b>machine learning algorithms</b>.<br>
   The main goal of this repository is <i>learning, experimentation, and improvement</i>.<br>
   Models may not be fully optimized or produce high accuracy — they’re for <b>educational purposes only</b>. 
