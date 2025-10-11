@@ -3,7 +3,7 @@
 This repository contains my personal implementations and practice notebooks for various ML algorithms.
 ##  Contents
 # 1.Linear Regression 
-####
+#### https://github.com/ShyamDodway/ml-algorithms-practice/blob/main/linear_regression.ipynb
 
 - A real state agents want the help to predict the house price for regions in the USA. He gave the dataset to work on and i  decided to use Linear Regressioon Model. Create a model which will help him to estimate of what the house would sell for.
 
