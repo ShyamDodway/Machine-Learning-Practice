@@ -45,3 +45,14 @@ Classification Report:
     accuracy                           0.98       848
    macro avg       0.92      0.75      0.81       848
 weighted avg       0.98      0.98      0.98       848
+
+# 3.KNN 
+
+KNN Classifier Evaluation
+This repository contains a K-Nearest Neighbors (KNN) classifier implemented using scikit-learn, along with comprehensive evaluation metrics (accuracy, precision, recall, confusion matrix, and classification report).​
+
+Features:
+- Loads and splits dataset
+- Trains a KNN classifier
+- Evaluates model with multiple metrics
+- Easy to modify for your own data
