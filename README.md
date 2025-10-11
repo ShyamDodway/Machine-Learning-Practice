@@ -3,6 +3,7 @@
 This repository contains my personal implementations and practice notebooks for various ML algorithms.
 ##  Contents
 # 1.Linear Regression 
+####
 
 - A real state agents want the help to predict the house price for regions in the USA. He gave the dataset to work on and i  decided to use Linear Regressioon Model. Create a model which will help him to estimate of what the house would sell for.
 
@@ -16,7 +17,8 @@ Dataset contains 7 columns and 5000 rows with CSV extension. The data contains t
 - 'Price': Price that the house sold at.
 - 'Address': Address of the houses.
 
-# 2. Logistic Regression (https://github.com/ShyamDodway/ml-algorithms-practice/blob/main/Logistic_Regression.ipynb)
+# 2. Logistic Regression
+#### https://github.com/ShyamDodway/ml-algorithms-practice/blob/main/Logistic_Regression.ipynb
 This project demonstrates the implementation of Logistic Regression, a supervised machine learning algorithm used for binary classification problems. The goal is to predict the outcome (class 0 or 1) based on input features and the about the dataset i mention with code file section.
 Steps Followed
 
