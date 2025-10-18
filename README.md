@@ -87,7 +87,7 @@ Features:
 # 4. Naive Bayes Classifier
 In machine learning, Naïve Bayes classification is a straightforward and powerful algorithm for the classification task. In this kernel, I implement Naive Bayes Classification algorithm with Python and Scikit-Learn. I build a Naive Bayes Classifier to predict whether a person makes over 50K a year
 
-
+https://github.com/ShyamDodway/Machine-Learning-Practice/blob/main/NaiveBayes.ipynb
 ### Results and conclusion ¶
 Table of Contents
 
